@@ -5,6 +5,8 @@ class Day_name_displayer
      menu
    end
    def welcome
+     puts ""
+     puts ""
      puts "welcome to ---Day Name Displayer----"
      puts ""
    end
