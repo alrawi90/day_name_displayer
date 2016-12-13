@@ -1,7 +1,7 @@
 class Day_name_displayer
    
    def initialize
-
+     welcome
      menu
    end
    def welcome
